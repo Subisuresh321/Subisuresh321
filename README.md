@@ -1,4 +1,4 @@
-# 🍏 An iOS Developer 🚀  
+# 🍏 The Unpredictable iOS Developer 🚀  
 ### "Code is poetry. Apps are art."
 
 Hey, I’m **Subi Suresh**, an enthusiastic **iOS developer** currently pursuing my **Master of Computer Applications (MCA)**. I build iOS apps, but more than that—I craft experiences. Minimalist yet impactful. Smooth yet powerful.
@@ -16,7 +16,10 @@ I focus on:
 ---
 
 ## 👨‍💻 Tech & Skills  
-💻 **Programming:** Swift, Objective-C (for mobile interoperability)  
+💻 **Languages:**  
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)  
+![Objective-C](https://img.shields.io/badge/Objective--C-438DD3?logo=apple&logoColor=white&style=for-the-badge)  
+
 📱 **iOS Frameworks:** UIKit, SwiftUI, CoreData, Combine  
 🛠 **Tools:** Xcode, Git, CocoaPods, Fastlane  
 ☁ **Back-end:** Firebase, Node.js, REST APIs  
@@ -31,15 +34,18 @@ I focus on:
 
 ---
 
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=swift)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=swift)  
+
+---
+
 ## 🎭 Hidden Traits  
 🎨 **Pixel Perfectionist** – UI should never feel off. Ever.  
 🔎 **Obsessive Debugger** – If there’s a bug, I hunt it down like a detective.  
 🎮 **Casual Gamer** – Learning Swift by building small indie games.  
 
 ---
-
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=swift)  
 
 ## 🤝 Connect & Collaborate  
 If you love elegant, well-crafted apps, let’s build something together.  
