@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🍏 Aspiring iOS Developer 🚀
 
-<!--
-**Subisuresh321/Subisuresh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm [Subi Suresh], an enthusiastic **iOS developer** currently pursuing my **Master of Computer Applications (MCA)**. Passionate about crafting sleek, intuitive apps for Apple devices. 
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech & Skills 
+- 💻 **Programming:** Swift, Objective-C (for mobile interoperability)
+- 📱 **iOS Frameworks:** UIKit, SwiftUI, CoreData, Combine
+- 🛠 **Tools:** Xcode, Git, CocoaPods, Fastlane
+- ☁ **Back-end:** Firebase, Node.js, REST APIs
+- 🎨 **UI/UX:** Figma, Auto Layout, Human Interface Guidelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **M Coming Soon! 🚀**
+
+## 📚 Currently Learning
+- 🧠 **Swift Concurrency** for better async programming
+- 🌐 **CloudKit & Firebase** for seamless cloud integration
+- 🎮 **Game Development with SpriteKit** (exploring game dev!)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=swift)
+
+## 📌 Find Me Elsewhere!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/subisuresh2503)   
+[![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](https://x.com/subisuresh25)  
+
+---
