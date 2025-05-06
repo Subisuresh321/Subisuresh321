@@ -1,5 +1,5 @@
-# 🍏 The Unpredictable iOS Developer 🚀  
-![Apple GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA3Nmlpc3ZsdmkyaTd0d2JuYWc4N3Nyamt6ZjM1bWptcm0ycDM4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smGpsxCQzXwDS/giphy.gif)
+# 🍏 Aspiring iOS Developer 🚀  
+![Apple GIF](https://jumpshare.com/s/WsXNkXF4Sf2wTExWNylU)
 ### "Code is poetry. Apps are art."
 
 Hey, I’m **Subi Suresh**, an enthusiastic **iOS developer** currently pursuing my **Master of Computer Applications (MCA)**. I build iOS apps, but more than that—I craft experiences. Minimalist yet impactful. Smooth yet powerful.
