@@ -1,5 +1,5 @@
 # 🍏 Aspiring iOS Developer 🚀  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNyN3pnMXh3ZmtzeHA3MXZwdnNwdXJ3b3J3NHAwZnRtNG5mZzJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X9zUzhlh2KQVhOI0yv/giphy.gif" width="200" height="200">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNyN3pnMXh3ZmtzeHA3MXZwdnNwdXJ3b3J3NHAwZnRtNG5mZzJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X9zUzhlh2KQVhOI0yv/giphy.gif" width="250" height="200">
 
 ### "Code is poetry. Apps are art."
 
