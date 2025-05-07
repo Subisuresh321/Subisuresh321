@@ -1,20 +1,6 @@
 # 🍏 Aspiring iOS Developer 🚀  
-
-<p align="center">
-    <img class="animated-img" src="https://img.icons8.com/?size=100&id=znhErJWkRjHW&format=png&color=000000" alt="Animated Icon">
+<p align="center">    <img src="https://github.com/Subisuresh321/Subisuresh321/blob/e7c64e8eeacdb7e3c1ba8018e3503e3dd4b1c78e/Untitleddesign-ezgif.com-effects.gif" alt="Animated GIF" width="200">
 </p>
-
-<style>
-    @keyframes spinAndPulse {
-        0% { transform: rotate(0deg) scale(1); opacity: 1; }
-        50% { transform: rotate(180deg) scale(1.2); opacity: 0.7; }
-        100% { transform: rotate(360deg) scale(1); opacity: 1; }
-    }
-    .animated-img {
-        width: 100px;
-        animation: spinAndPulse 3s infinite linear;
-    }
-</style>
 
 ### "Code is poetry. Apps are art."
 
