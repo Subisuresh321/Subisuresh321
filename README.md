@@ -53,7 +53,7 @@ I focus on:
 If you love elegant, well-crafted apps, let’s build something together.  
 
 🔗 **LinkedIn:** [Subi Suresh](https://www.linkedin.com/in/subisuresh2503)  
-🐦 **Twitter:** [@SubiSuresh25](https://x.com/subisuresh25)  
+(https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1OTI3OTEsIm5iZiI6MTc0NjU5MjQ5MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA3VDA0MzQ1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllYTE3MDcxNDBlMDcwZDE3MmVhOGJhNGVlMTExMDNkY2Y5YjNhY2JlMWNhOTc1ZjVjODhlMTE1MjNjODYzYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z6R8cMDiovuCI9RuxMW4tuVq7dyv7AP8u5hfHj5cI1k) **Twitter:** [@SubiSuresh25](https://x.com/subisuresh25)  
 
 ---
 
