@@ -1,5 +1,6 @@
 # 🍏 Aspiring iOS Developer 🚀  
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNyN3pnMXh3ZmtzeHA3MXZwdnNwdXJ3b3J3NHAwZnRtNG5mZzJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X9zUzhlh2KQVhOI0yv/giphy.gif" width="300" height="200">
+
 ### "Code is poetry. Apps are art."
 
 Hey, I’m **Subi Suresh**, an enthusiastic **iOS developer** currently pursuing my **Master of Computer Applications (MCA)**. I build iOS apps, but more than that—I craft experiences. Minimalist yet impactful. Smooth yet powerful.
