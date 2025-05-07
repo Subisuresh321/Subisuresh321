@@ -38,8 +38,8 @@ I focus on:
 ---
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=swift)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=swift)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Subisuresh321&show_icons=true&theme=swift)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subisuresh321&layout=compact&theme=swift)  
 
 ---
 
