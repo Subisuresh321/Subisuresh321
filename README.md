@@ -5,7 +5,8 @@
         <img src="https://github.com/Subisuresh321/Subisuresh321/blob/3456917134706a0a164844daeaebf06bceb38218/Untitleddesign-2-ezgif.com-effects-2.gif" alt="Animated GIF" width="200">
     </picture>
 </p>
-### "Code is poetry. Apps are art."
+
+## "Code is poetry. Apps are art."
 
 Hey, I’m **Subi Suresh**, an enthusiastic **iOS developer** currently pursuing my **Master of Computer Applications (MCA)**. I build iOS apps, but more than that—I craft experiences. Minimalist yet impactful. Smooth yet powerful.
 
