@@ -1,7 +1,10 @@
 # 🍏 Aspiring iOS Developer 🚀  
-<p align="center">    <img src="https://github.com/Subisuresh321/Subisuresh321/blob/e7c64e8eeacdb7e3c1ba8018e3503e3dd4b1c78e/Untitleddesign-ezgif.com-effects.gif" alt="Animated GIF" width="200">
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Subisuresh321/Subisuresh321/blob/3456917134706a0a164844daeaebf06bceb38218/Untitleddesign-ezgif.com-effects.gif">
+        <img src="https://github.com/Subisuresh321/Subisuresh321/blob/3456917134706a0a164844daeaebf06bceb38218/Untitleddesign-2-ezgif.com-effects-2.gif" alt="Animated GIF" width="200">
+    </picture>
 </p>
-
 ### "Code is poetry. Apps are art."
 
 Hey, I’m **Subi Suresh**, an enthusiastic **iOS developer** currently pursuing my **Master of Computer Applications (MCA)**. I build iOS apps, but more than that—I craft experiences. Minimalist yet impactful. Smooth yet powerful.
