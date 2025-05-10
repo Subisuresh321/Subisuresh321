@@ -1,7 +1,7 @@
 # 🍏 Aspiring iOS Developer 🚀  
 <p align="center">
     <picture>
-        <img src="https://github.com/Subisuresh321/Subisuresh321/blob/3456917134706a0a164844daeaebf06bceb38218/Untitleddesign-2-ezgif.com-effects-2.gif" alt="Animated GIF" width="200">
+        <img src="https://github.com/Subisuresh321/Subisuresh321/blob/e6901e0cf17c0473ad7d41b0e881ae4dfeb8bd7e/fetchpik.com-RLvXDBwAFV-ezgif.com-gif-maker.gif" alt="Animated GIF" width="200">
     </picture>
 </p>
 
