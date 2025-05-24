@@ -19,13 +19,16 @@ I focus on:
 - 🚀 Performance-driven development (**Swift, SwiftUI, CoreData, Combine**)  
 - 🔥 Scaling ideas from sketch to App Store reality  
 
+
+## LeetCode Stats for Subi suresh
+[![LeetCode Stats](https://leetcard.jacoblin.cool/C10H7G9CGz?theme=dark&ext=heatmap&font=Open_Sans&border=true&animation=true)](https://leetcode.com/C10H7G9CGz)
+
 ---
 
 ## 👨‍💻 Tech & Skills  
 💻 **Languages:**  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)  
 ![Objective-C](https://img.shields.io/badge/Objective--C-438DD3?logo=apple&logoColor=white&style=for-the-badge)  
-
 📱 **iOS Frameworks:** UIKit, SwiftUI, CoreData, Combine  
 🛠 **Tools:** Xcode, Git, CocoaPods, Fastlane  
 ☁ **Back-end:** Firebase, Node.js, REST APIs  
