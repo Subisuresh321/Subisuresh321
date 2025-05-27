@@ -20,8 +20,8 @@ I focus on:
 - 🔥 Scaling ideas from sketch to App Store reality  
 
 
-## LeetCode Stats for Subi suresh
-[![LeetCode Stats](https://leetcard.jacoblin.cool/C10H7G9CGz?theme=dark&ext=heatmap&font=Open_Sans&border=true&animation=true)](https://leetcode.com/C10H7G9CGz)
+## LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Subisuresh?theme=dark&ext=heatmap&font=Open_Sans&border=true&animation=true)](https://leetcode.com/C10H7G9CGz)
 
 ---
 
