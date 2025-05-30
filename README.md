@@ -21,7 +21,7 @@ I focus on:
 
 
 ## LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Subisuresh?theme=dark&ext=heatmap&font=Open_Sans&border=true&animation=true)](https://leetcode.com/C10H7G9CGz)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Subisuresh?theme=dark&ext=heatmap&font=Open_Sans&border=true&animation=true)](https://leetcode.com/Subisuresh)
 
 ---
 
