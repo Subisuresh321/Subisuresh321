@@ -19,6 +19,9 @@ I focus on:
 - 🚀 Performance-driven development (**Swift, SwiftUI, CoreData, Combine**)  
 - 🔥 Scaling ideas from sketch to App Store reality  
 
+## LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Subisuresh?theme=dark&ext=heatmap&font=Open_Sans&border=true&animation=true)](https://leetcode.com/Subisuresh)
+
 ## 👨‍💻 Tech & Skills  
 💻 **Languages:**  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)  
